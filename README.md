@@ -1,0 +1,2 @@
+# Case-Study-2
+From the data provided on Hollywood movies:  Find the highest rated movie in the“Quest” story type. Find the genre in which there has been the greatest number of movie releases Print the names of the top five movies with the costliest budgets. Is there any correspondence between the critics’ evaluation of a movie and itsacceptance by the public? Find out, by plotting the net profitability of a movie against the ratings it receives on Rotten Tomatoes
